@@ -1,12 +1,12 @@
 body{
-                background-color: #0A0A0A;
+                background-color: #caf7e3;
             }
             .invite{
-                border-left: 10px solid rgb(255, 0, 0);
-                border-top: 3px solid rgb(22, 108, 77);
-                border-bottom: 3px solid rgb(22, 108, 77);
+                border-left: 10px solid #00ead3;
+                border-top: 3px solid #343f56;
+                border-bottom: 3px solid #343f56;
                 text-indent: 8px;
-                background-color:rgb(255,255,0);
+                background-color:#fdbaf8;
                 font-family: Source Code Pro;
                 font-variant: small-caps;
                 font-size: 40px;
@@ -17,16 +17,22 @@ body{
                 top: 55px;
                 left: 70px;
                 font-variant: small-caps;
-                background-color: rgb(255, 23, 86);
+                background-color: #a8d8ea;
                 padding: 0px 4px 4px 4px;
             }
+
+             .where2{
+                font-size: 40px;
+             }
+
+
             .details-div{
                 margin-left: 20px;
                 margin-top: 60px;
                 border-left: 7px solid rgb(255, 23, 86);
                 padding-left: 4px;
                 padding-right: 4px;
-                background-color: rgb(255, 128, 64);
+                background-color: #aa96da;
                 width: 400px;
                 position: fixed;
             }
@@ -56,7 +62,7 @@ body{
                 margin-top: 60px;
                 border-left: 7px solid rgb(255, 23, 86);
                 padding-left: 4px;
-                background-color: rgb(255, 128, 64);
+                background-color:#aa96da;
                 width: 530px;
                 position: fixed;
                 left: 450px;
@@ -84,3 +90,4 @@ body{
                 font-variant: small-caps;
                 margin-left: 15px;
             }
+
